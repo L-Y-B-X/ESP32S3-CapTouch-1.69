@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/CMakeFiles/bootloader
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/CMakeFiles/bootloader.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/CMakeFiles/bootloader-complete.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Opensource/lcd_touch-master/lcd_touch-master/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
